@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Ethicality in Personal Assistant Response Accuracy
+
+# The Project
+
+In the past decade, personal assistants have become more and more prevalent in our daily lives. Assistants such as Siri, Cortana, and Google Assistant have become intimately connected to our day to day by embedding themselves in our phones, laptops, homes, and cars. For this project, I want to conduct an ethical exploration on whether personal assistance are biased towards certain demographics. Are these assistants more or less accurate at understanding specific subsets of the population based on the gender or dialect of the speaker?
+
+# Goals
+
+- Learn about how personal assistants such as Siri and Alexa are trained
+- Explore the ethics of these personal assistants' training process
+- Conduct our own ethical and efficient data collection
+- If there is an ethical bias encountered, how can companies creating personal assistants try and counteract the bias?
+
+
+# Lingering Questions
+- How will we get data? Will we collect our own or will we use existing data sets. If the goal of the research is to explore whether demographic factorrs affect response accuracy, what information do existing data sets include about their research participants?
+- How will accuracy be defined?
+
+
 
 You can use the [editor on GitHub](https://github.com/erza2018/zhu_project_proposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erza2018/zhu_project_proposal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
